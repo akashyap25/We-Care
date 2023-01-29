@@ -88,7 +88,7 @@ It will be copied automatically.
  
 ## Team :
 
-- [Manvi Jain](https://github.com/ManviJain24)
-- [Smita Tripathi](https://github.com/SmitaTripathi)
-- [Kushagra Varshney](https://github.com/KushagraVarshney05)
+- [Shubhi Pandey](https://github.com/Shubhipandey21)
+- [Anurag Kumar](https://github.com/akashyap25)
+- [Prashant Rai](https://github.com/Prashant7451)
 - [Yash Varshney](https://github.com/Yash-Var)
